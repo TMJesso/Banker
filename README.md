@@ -16,3 +16,6 @@ A Regular Account, by default, is a interest baring account at 6% compounded mon
 A Checking Account, by default, is not an interest baring account. This account tracks transactions and the first two per month are free and all others will be charged a $3.00 fee for each transation throughout that month until EOM is calculated.
 
 This is the basic description of the system.
+
+This is an update from the original (see https://github.com/TMJesso/BankProject) and the data will be saved into mySQL database
+
